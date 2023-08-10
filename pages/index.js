@@ -1,5 +1,5 @@
 function Home() {
-    return <h3>Se o Chavito é gayzinho da uma risadinha</h3>
+    return <h3>Epilif</h3>
 }
 
 export default Home;
